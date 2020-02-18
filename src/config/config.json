@@ -55,18 +55,21 @@
   
   "projectData": [
     {
-      "name": "Logic Gates",
-      "description": "Small but one for my favorite, where I had creativly explained logic gates in college fest."
+      "name": "Integration (Changi Airport)",
+      "description": "Requirement gathering and delivering required configurations to perform UAT."
     },
     {
-      "name": "Appreciation for customer success",
-      "description": "Several times awarded with customer focus and solution deliveries."
+      "name": "ERP Integrations",
+      "description": "Zycus Integration has till now provided two ways of integration i.e API based and file based that includes both mastera and slave methods."
     },
     {
       "name": "Coupa Procurement Certification",
       "description": "Joining Coupa I got an advantage to get the Procurment Certification done."
       
-    }
+    },
+    {
+      "name": "Perform UAT"
+      "description": "Completed release testing for severval customer."
 
   ],
   "journeySteps": [
