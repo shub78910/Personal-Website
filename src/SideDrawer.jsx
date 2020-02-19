@@ -92,7 +92,7 @@ function SideDrawer(props) {
         justify="center"
         style={{minHeight: '90vh'}}>
 
-        <Button href={"/"}><Avatar src="https://s.gravatar.com/avatar/33bee907d6bc6fb421926c792051648a?s=80"
+        <Button href={"/"}><Avatar src="https://avatars1.githubusercontent.com/u/60281464?s=400&u=a104fea04dd318550ed4dd9a8ddee98494dd3c1f&v=4"
                                    className={classes.gravatar}/></Button>
         <Divider/>
 
