@@ -27,7 +27,7 @@
     "Trekking",
     "Cooking"
   ],
-  "aboutText": "Hello! I am working with Coupa Softwares as QA Tester. I completed B.Tech in Electronics and Communication Engineering in 2016.\n\nStrong in softeware functional and integration testing.\nI have 3 years experince in Procurement domain.\n\nI consider myself lucky that I got an opportunity to work at different levels like BA, programmer and tester. My areas of interest include bussiness procurment functional and integration testing.\n",
+  "aboutText": "Hello! I am working with Coupa Softwares as QA Tester. I completed B.Tech in Electronics and Communication Engineering in 2016.\n\nStrong in software functional and integration testing.\nI have 3 years experience in Procurement domain.\n\nI consider myself lucky that I got an opportunity to work at different levels like BA, programmer and tester. My areas of interest include business procurement functional and integration testing.\n",
   "aboutTechnologies": [
     "Java",
     "Selenium",
@@ -41,7 +41,7 @@
       "name": "Coupa Softwares",
       "position": "QA Tester",
       "time": "Mar 2019 - Present",
-      "description": "Includes functional, regression and new feature testing.\nUnderstand procurment domain to serve the best to the customers.\n Started with basic automation of functional scripts using ROR",
+      "description": "Includes functional, regression and new feature testing.\nUnderstand procurement domain to serve the best to the customers.\n Started with basic automation of functional scripts using ROR",
       "link": "https://www.coupa.com/"
     },
     {
@@ -49,42 +49,42 @@
       "position": "Software Test Engineer",
       "time": "May 2017 - Mar 2018",
       "description": "I have always been interested and enjoyed working in the computer industry, but I consider myself lucky that I got an opportunity to work at different levels like business analyst, programmer and solution architect apart from by assigned profile. My main strength is the ability to maintain a great rapport with the customer and my attention to their details.",
-      "link": "https://codein.withgoogle.com/"
+      "link": ""
     }
   ],
   
   "projectData": [
     {
       "name": "Integration (Changi Airport)",
-      "description": "Requirement gathering and delivering required configurations to perform UAT."
+      "description": "Requirement gathering and delivering needed configurations to perform UAT."
     },
     {
       "name": "ERP Integrations",
-      "description": "Zycus Integration has till now provided two ways of integration i.e API based and file based that includes both mastera and slave methods."
+      "description": "Zycus Integration has till now provided two ways of integration i.e API based and file based, so had a handson experience on it ."
     },
     {
       "name": "Coupa Procurement Certification",
-      "description": "Joining Coupa I got an advantage to get the Procurment Certification done."
+      "description": "Joining Coupa I got an advantage to get the Procurement Certification done."
       
     },
     {
       "name": "Perform UAT",
-      "description": "Completed release testing for severval customer."
+      "description": "Completed release testing for several customers."
     }
 
   ],
   "journeySteps": [
     {
       "heading": "2016- Completed by graduation",
-      "description": "Ended up with a first class degree certificate and some event organization and winning cerficates."
+      "description": "Ended up with a first class degree certificate and some event organization and winning certificates."
     },
     {
       "heading": "Q Spiders",
-      "description": "Got a chance to join a free course of Java and Testing, where I turned from a electronic person to software."
+      "description": "Got a chance to join a free course of Java and Testing, where I turned from an electronic person to software."
     },
     {
       "heading": "Tech Mahindra(Mumbai)- 2016 Dec",
-      "description": "Joined here as a Trainee, learned fun more prgrammimg languages."
+      "description": "Joined here as a Trainee, learned fun more prgramming languages."
     },
     {
       "heading": "Home tutions",
@@ -92,7 +92,7 @@
     },
     {
       "heading": "Zycus- 2017",
-      "description": "The Integration Testing journey started with some new learning on APIs and web services with great training in procurement domain."
+      "description": "The Integration Testing journey started with some new learning on APIs and web services."
     },
     {
       "heading": "Onsite to Singapore",
@@ -100,7 +100,7 @@
     },
     {
       "heading": "Coupa Softwares- 2019",
-      "description": "Started my new journey of procurement here in Functional testing role. Also, got certifed with Coupa Procurement Certification."
+      "description": "Started my new journey of procurement here in Functional testing role. Also, got certified with Coupa Procurement Certification."
       
     }
   ]
